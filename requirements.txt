@@ -4,3 +4,9 @@ pandas
 black
 isort
 jupyterlab
+matplotlib
+seaborn
+glob2
+librosa
+cycle
+urllib3==1.26.6
